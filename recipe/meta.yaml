@@ -3,7 +3,7 @@
 {% set name = centos_name |lower %}
 {% set version = '1.2.3' %}
 {% set centos_build = '1' %}
-# No good way to get this other than to fail once, I think???
+# No good way to get this other than to fail once, I think?
 {% set so_version = '6' %}
 {% set el = 'el7' %}
 {% set arch = "ppc64le" %}
